@@ -6,6 +6,7 @@ It is a open source computer vision library.it was build to provide a common inf
 2.Understanding Pictures and Images as data arrays.\
 3.Puting Text,Rectangles and Circles on Images.\
 4.Understanding Region of Intrest.\
+![ROI](../opencv/ROT.jpeg).
 5.Processing Mouse Clicks and events and creating ROI with them.\
 6.Creating and using Trackbars.\
 7.Understanding HSV and tracking an object based on colors in opencv.\
