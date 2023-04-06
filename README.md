@@ -18,4 +18,14 @@ It is a open source computer vision library.it was build to provide a common inf
 **Some of my working examples**
 
 ![tracking](https://github.com/Rakeshreddysr2401/OpenCv/blob/main/opencv/tracking%20of%20object.mp4).\
+Tracking an object based on HSV colour selection.
+
+![Getting RGB values](https://github.com/Rakeshreddysr2401/OpenCv/blob/main/opencv/RGB%20values%20by%20mouse%20click.jpeg).\
+Getting RGB values by mouseclicking.
+
+![ROI](https://github.com/Rakeshreddysr2401/OpenCv/blob/main/opencv/ROI.jpeg).\
+Playing with Region Of Indices.
+
+![multi]().\
+Getting muitiscreens with different color predictions.
 
